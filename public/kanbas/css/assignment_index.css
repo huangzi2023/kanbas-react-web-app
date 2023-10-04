@@ -1,0 +1,30 @@
+.wd-assignment-percentage {
+  border: 1px solid gray;
+  padding: 3px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 20px;
+  margin: 0px;
+}
+
+.wd-assignment-title {
+  font-weight: bold;
+}
+
+.wd-assignment-list .wd-assignment-item {
+  border-left: 4px solid green;
+}
+
+.wd-assignment-item a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.wd-assignment-edit * {
+  margin-bottom: 10px;
+}
+
+.wd-assignment-edit-points {
+  max-width: 500px;
+}

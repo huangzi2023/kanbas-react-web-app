@@ -1,0 +1,19 @@
+.wd-assignment-edit * {
+  margin-bottom: 10px;
+}
+
+.wd-assignment-edit-inputs {
+  max-width: 500px;
+}
+
+.wd-assignment-edit-input-box {
+  border: 1px solid #dee2e6;
+  width: 500px;
+  border-radius: 8px;
+}
+
+.wd-assignment-edit-input-box ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

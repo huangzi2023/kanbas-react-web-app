@@ -1,0 +1,38 @@
+.wd-account-content {
+  display: flex;
+  width: 100%;
+}
+
+.wd-account-profile {
+  display: block;
+  flex: 2;
+}
+
+.wd-account-profile * {
+  margin-top: 25px;
+}
+
+.wd-account-profile > p > span > a {
+  color: red;
+  text-decoration: none;
+}
+
+.wd-account-profile > p > span > a:hover {
+  color: brown;
+}
+
+.wd-account-profile > a {
+  color: red;
+  text-decoration: none;
+}
+
+.wd-account-profile > a:hover {
+  color: brown;
+}
+
+.wd-account-edit-button {
+  display: flex;
+  align-items: start;
+  justify-content: right;
+  padding-right: 30px;
+}
