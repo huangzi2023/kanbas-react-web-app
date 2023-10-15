@@ -1,0 +1,11 @@
+.wd-input > input {
+  max-width: 60%;
+}
+
+.wd-input > select {
+  max-width: 50%;
+}
+
+.wd-input > textarea {
+    max-width: 60%;
+}
