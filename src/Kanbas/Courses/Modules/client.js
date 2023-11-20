@@ -2,7 +2,6 @@ import axios from "axios";
 
 const API_BASE = process.env.REACT_APP_API_BASE;
 // const COURSES_URL = "http://localhost:4000/api/courses";
-console.log(`API_BASE: ${API_BASE}`)
 const COURSES_URL = `${API_BASE}/courses`;
 const MODULES_URL = `${API_BASE}/modules`;
 
