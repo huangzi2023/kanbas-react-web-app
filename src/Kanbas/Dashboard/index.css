@@ -22,3 +22,12 @@
 .wd-courses-wrapper {
   width: 100%;
 }
+
+.wd-courses-wrapper > input {
+  width: 20%;
+  margin-top: 5px;
+}
+
+.wd-courses-wrapper > button {
+  margin-top: 5px;
+}
